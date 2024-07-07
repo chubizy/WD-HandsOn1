@@ -4,23 +4,27 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/chubizy/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/Bloogoo_Dantic.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">RESUME</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome! 
+  
+  This inlcude the projects, seatworks, and hands on anctivities on Web Design.
+
+  This hands on 1 is all about creating resume using html and css.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=chubizy/WD-HandsOn1)
 
 ---
 
@@ -60,17 +64,24 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
+- What is the project?
+
+This hands on 1 is all about creating resume with the implementation of html and css.
+- Whats the purpose?
+
+To apply basic skills in using html and css by creating resume.
 - What are key components
-- What technology used and how it is used
+
+Image and containers with text.
+- What technology used and how it is used?
+
+This project is consist of HtML (Hypertext markup Language) is a main tool in creating web pages. Along here is the cascading style sheet where you can enhance and add different designs and animation. It also serve as the color to HTML.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Image
+- Containers
 
 ### Technology
 <!-- TODO: List of Technology Used -->
